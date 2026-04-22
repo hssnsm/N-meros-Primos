@@ -13,7 +13,7 @@
 ## Clone o repositório
 
 ```bash
-git clone https://github.com/hssnext/N-meros-Primos.git
+git clone https://github.com/hssnsm/N-meros-Primos
 ```
 
 ## Compile
